@@ -1,17 +1,17 @@
-def create_an_empty_array
+def empty=[]
   
 end
 
-def create_an_array
+def filled=["tom","sony","max","howerd"]
   
 end
 
-def add_element_to_end_of_array(array, element)
-  
+def adding_array=["tom"]
+  adding_array<<frank
 end
 
-def add_element_to_start_of_array(array, element)
-  
+def add_element_to_start_of_aray=["car","truck",]
+add_element_to_start_of_aray.unshift("toy"
 end
 
 def remove_element_from_end_of_array(array)
